@@ -1,0 +1,14 @@
+# Dependencias
+node_modules/
+
+# Compilacao/Build
+build/
+dist/
+
+# Variaveis de ambiente e segredos
+.env
+.env.local
+
+# Logs e arquivos do sistema
+*.log
+.DS_Store
