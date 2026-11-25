@@ -154,6 +154,15 @@ Cada funcionalidade deve ser desenvolvida em uma branch própria e integrada atr
 5. Validação final e documentação.
 
 ---
+## Fluxo de Gerenciamento de Branches
+
+- **main:** versão estável do projeto, destinada à produção.
+- **development:** integração das alterações realizadas pela equipe.
+- **release:** preparação e validação das versões antes da produção.
+- **feature/***: desenvolvimento de novas funcionalidades.
+
+As alterações são integradas por meio de Pull Requests,
+permitindo acompanhar e revisar as modificações.
 
 # 📚 Referências
 
